@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning for Beginners
+# Deep Reinforcement Learning with Tensorflow
 ## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Deep Reinforcement Learning for Beginners](https://www.tertiarycourses.com.sg/deep-reinforcement-learning-course.html) course. 
