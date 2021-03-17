@@ -9,55 +9,40 @@ https://www.tertiarycourses.com.sg/deep-reinforcement-learning-course.html
 
 https://www.tertiarycourses.com.my/deep-reinforcement-learning-course-malaysia.html
 
-<p><strong>Module 1 Introduction to Reinforcement Learning</strong></p>
+<p><strong>Topic 1 Introduction to Reinforcement Learning</strong></p>
 <ul>
-<li>What is Reinforcement Learning (RL)</li>
+<li>Fundamental Concepts of Reinforcement Learning (RL)</li>
+<li>Types of RL Algorithms</li>
 <li>Applications of RL</li>
-<li>Basic Concepts of RL</li>
-<li>RL Methods</li>
-<li>Key RL Algorithms</li>
+<li>Markov Decision Process (MDP)</li>
 </ul>
-<p><strong>Module 2 Q Learning</strong></p>
+<p><strong>Topic 2 OpenAI Gym</strong></p>
 <ul>
-<li>Q Value and Q-Table</li>
-<li>Q-Learning and Bellman Equation</li>
-<li>Q-Learning Algorithm</li>
-<li>Epsilon Greedy Explore-Exploit Strategy</li>
-<li>Implementation of Q-Learning in Python</li>
-<li>Max Q-Value Policy</li>
+<li>Introduction to OpenAI Gym</li>
+<li>Install OpenAI Gym and Tensorflow</li>
+<li>Try Out OpenAI Gyms</li>
 </ul>
-<p><strong>Module 3 SARSA</strong></p>
+<p><strong>Topic 3 Value Based Q-Learning</strong></p>
 <ul>
-<li>On-Policy vs Off-Policy Learning</li>
-<li>What is SARSA?</li>
-<li>SARSA Value Update</li>
-<li>Sarsa Algorithm</li>
-<li>Implementation of SARSA in Python</li>
+<li>Overview of Value Based Learning</li>
+<li>Value Functions</li>
+<li>Introduction to Q-Learning</li>
+<li>Exploration Strategies</li>
+<li>Implementation of Q-Learning on OpenAI Gym</li>
+<li>Introduction to SARSA</li>
+<li>Implementation of SARSA on OpenAI Gym</li>
 </ul>
-<p><strong>Module 4 OpenAI Gym</strong></p>
+<p><strong>Topic 4 Policy Valued Learning</strong></p>
 <ul>
-<li>What is OpenAI Gym</li>
-<li>Install OpenAI Gym</li>
-<li>OpenAI Gym Operations</li>
-<li>Q-Learning on OpenAI Gym</li>
-<li>SARSA on OpenAI Gym</li>
+<li>Overview of Policy Based Learning</li>
+<li>Policy Gradient</li>
+<li>Concept of Advantage Function</li>
+<li>Implementation of Policy Gradient on OpenAI Gym</li>
 </ul>
-<p><strong>Module 5 Deep Q-Network (DQN)</strong></p>
+<p><strong>Topic 5 Overview of Advanced RL Algorithms</strong></p>
 <ul>
-<li>Why Deep Q-Learning?</li>
-<li>Challenges of Implementing Deep Q-Learning</li>
-<li>Target Network &amp; Experience Replay</li>
-<li>What is Deep Q Network (DQN)?</li>
-<li>DQN Algorithm</li>
-<li>Implementing DQN on OpenAI Gym with Keras</li>
+<li>Deep Q Network (DQN)</li>
+<li>Actor-Critic (AC)</li>
+<li>Proximal Policy Gradient (PPO)</li>
 </ul>
-<p><strong>Module 6 Policy Gradient</strong></p>
-<ul>
-<li>Limitation of DQN</li>
-<li>Policy Based Methods</li>
-<li>Policy Gradient Theorem</li>
-<li>REINFORCE Algorithm</li>
-<li>Implementing PG on OpenAI Gym with Keras</li>
-</ul>
-
 
