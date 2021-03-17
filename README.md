@@ -1,5 +1,5 @@
 # Deep Reinforcement Learning for Beginners
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Deep Reinforcement Learning for Beginners](https://www.tertiarycourses.com.sg/deep-reinforcement-learning-course.html) course. 
 
