@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy
 matplotlib
 sklearn
@@ -15,3 +16,13 @@ pyglet
 stable-baselines3[extra] 
 box2d 
 box2d-kengz
+=======
+matplotlib
+pandas
+torch
+torchvision
+tensorflow
+tensorboardX
+gym
+gym[atari]
+>>>>>>> 4aab1d4978381118cfc46edbb255a62d60a37143
